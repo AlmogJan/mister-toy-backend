@@ -1,0 +1,36 @@
+[
+  {
+    "id": "cOp6Ps",
+    "name": "Talking dolldddd",
+    "price": 1200,
+    "labels": [
+      "Battery Powered",
+      "Baby",
+      "Doll",
+      "On wheels"
+    ],
+    "createdAt": "2023-09-23T18:43:11.125Z",
+    "inStock": true
+  },
+  {
+    "id": "m2Bbh",
+    "name": "גילה ג'אן",
+    "price": 1.5,
+    "labels": [
+      "Art",
+      "Puzzle"
+    ],
+    "createdAt": "2023-09-23T18:44:20.209Z",
+    "inStock": true
+  },
+  {
+    "id": "TxiECK",
+    "name": "MINE SWEEPEr",
+    "price": 743,
+    "labels": [
+      "Box game"
+    ],
+    "createdAt": "2023-09-23T18:44:38.816Z",
+    "inStock": true
+  }
+]
