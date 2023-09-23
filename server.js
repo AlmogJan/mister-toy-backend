@@ -5,6 +5,8 @@ import cors from 'cors';
 const app = express();
 
 app.use(express.json())
+app.use(express.static('public'))
+
 const corsOptions = {
     origin: [
         'http://127.0.0.1:3000',
